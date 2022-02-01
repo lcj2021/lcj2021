@@ -18,10 +18,10 @@
 <a href="https://pytorch.org/"><code><img height="20" src="./images/pytorch.png"></code></a>
 <a href="https://www.mathworks.com/products/matlab.html"><code><img height="20" src="./images/matlab.png"></code></a>
 
-### 开源项目
+### 科研项目
 
 [![MP(Property)C](https://github-readme-stats.vercel.app/api/pin/?username=lcj2021&repo=minimum-property-cutting)](https://github.com/lcj2021/minimum-property-cutting)
-[![MP(Pattern)C](https://github-readme-stats.vercel.app/api/pin/?username=lcj2021&repo=https://github.com/lcj2021/minimum-pattern-cutting)](https://github.com/lcj2021/minimum-pattern-cutting)
+[![MP(Pattern)C](https://github-readme-stats.vercel.app/api/pin/?username=lcj2021&repo=minimum-pattern-cutting)](https://github.com/lcj2021/minimum-pattern-cutting)
 <br><br><br>
 
 ### Github 活跃度
