@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="360" height="100%" />
 
 -   <a href="https://www.zhihu.com/people/liu-cheng-jun-31-31"><code><img height="20" width="50" src="./images/zhihu.png"></code></a>：发表了 25 篇技术文章，4万阅读
 
