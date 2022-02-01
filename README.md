@@ -8,17 +8,15 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="360" height="100%" />
 
--   <a href="https://www.zhihu.com/people/liu-cheng-jun-31-31"><code><img height="20" width="50" src="./images/zhihu.png"></code></a>：发表了 25 篇技术文章，4万阅读
+-   <a href="https://www.zhihu.com/people/liu-cheng-jun-31-31"><code><img height="20" width="20" src="./images/zhihu.png"></code></a>：发表了 25 篇技术文章，4万阅读
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://less.bootcss.com"><code><img height="20" src="./images/less.png"></code></a>
-<a href="https://element-plus.org/#/zh-CN"><code><img height="20" src="./images/element plus.svg"></code></a>
-<a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+<a href="http://www.cplusplus.com/"><code><img height="20" src="./images/cpp.png"></code></a>
+<a href="https://www.linux.org/"><code><img height="20" src="./images/linux.png"></code></a>
+<a href="https://www.python.org/"><code><img height="20" src="./images/python.png"></code></a>
+<a href="https://pytorch.org/"><code><img height="20" src="./images/pytorch.png"></code></a>
+<a href="https://www.mathworks.com/products/matlab.html"><code><img height="20" src="./images/matlab.png"></code></a>
 
 ### 开源项目
 
