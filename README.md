@@ -20,8 +20,8 @@
 
 ### 开源项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+[![MP(Property)C](https://github-readme-stats.vercel.app/api/pin/?username=lcj2021&repo=minimum-property-cutting)](https://github.com/lcj2021/minimum-property-cutting)
+[![MP(Pattern)C](https://github-readme-stats.vercel.app/api/pin/?username=lcj2021&repo=https://github.com/lcj2021/minimum-pattern-cutting)](https://github.com/lcj2021/minimum-pattern-cutting)
 <br><br><br>
 
 ### Github 活跃度
