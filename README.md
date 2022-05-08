@@ -2,7 +2,7 @@
 
 ## Channing Lau 刘城君
 
-HNU计科大三在读。研究兴趣为图算法，图挖掘，图嵌入学习。[国内首例rCPD治愈患者](https://mp.weixin.qq.com/s/XiosZrtD4RsGYmuX8kP-cA)。
+HNU计科大三在读。研究兴趣为图计算，图挖掘，图数据库优化。[国内首例rCPD治愈患者](https://mp.weixin.qq.com/s/XiosZrtD4RsGYmuX8kP-cA)。
 
 ## rCPD 逆行性环咽肌功能障碍
 这是一种由于环咽肌功能失调，不能自下而上的通过食管入口把气体排出来的罕见疾病，主要临床表现为不能打嗝。
@@ -13,7 +13,7 @@ HNU计科大三在读。研究兴趣为图算法，图挖掘，图嵌入学习�
 
  <img align="right" alt="GIF" src="./images/code.gif" width="360" height="100%" />
 
--   <a href="https://www.zhihu.com/people/liu-cheng-jun-31-31"><code><img height="20" width="20" src="./images/zhihu.png"></code></a>：发表了 1 篇 `rCPD` [个人治疗经历](https://www.zhihu.com/question/59542901/answer/1913309434)，2k阅读量
+-   <a href="https://www.zhihu.com/people/liu-cheng-jun-31-31"><code><img height="20" width="20" src="./images/zhihu.png"></code></a>：发表了 1 篇 `rCPD` [个人治疗经历](https://www.zhihu.com/question/59542901/answer/1913309434)，2.6k阅读量，已经成功帮助1人。
 -   <a href=""><code><img height="20" width="20" src="./images/wechat.png"></code></a>：个人wechat: 13352891273
 
 ### **技术栈:**
