@@ -2,7 +2,7 @@
 
 ## Channing Lau 刘城君
 
-研究兴趣为高维数据索引，近似近邻搜索（ANN）。CP(Competitive Programming)爱好者。[国内首例报导rCPD治愈患者](https://mp.weixin.qq.com/s/XiosZrtD4RsGYmuX8kP-cA)。
+CP(Competitive Programming)爱好者。[国内首例报导rCPD治愈患者](https://mp.weixin.qq.com/s/XiosZrtD4RsGYmuX8kP-cA)。
 
 ## rCPD 逆行性环咽肌功能障碍
 这是一种由于环咽肌功能失调，不能自下而上的通过食管入口把气体排出来的罕见疾病，主要临床表现为不能打嗝。
