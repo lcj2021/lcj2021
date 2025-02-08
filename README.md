@@ -11,10 +11,10 @@ CP(Competitive Programming)爱好者。[国内首例报导rCPD治愈患者](http
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="360" height="100%" />
+<!--  <img align="right" alt="GIF" src="./images/code.gif" width="360" height="100%" />  -->
 
--   <a href="https://www.zhihu.com/people/liu-cheng-jun-31-31"><code><img height="20" width="20" src="./images/zhihu.png"></code></a>：发表了 1 篇 `rCPD` [个人治疗经历](https://www.zhihu.com/question/59542901/answer/1913309434)，7.6k阅读量，已经成功帮助20+人。
--   <a href=""><code><img height="20" width="20" src="./images/wechat.png"></code></a>：个人wechat: 13352891273
+-   <a href="https://www.zhihu.com/people/liu-cheng-jun-31-31"><code><img height="20" width="20" src="./images/zhihu.png"></code></a>：发表了 1 篇 `rCPD` [个人治疗经历](https://www.zhihu.com/question/59542901/answer/1913309434)，10k阅读量，已经成功帮助20+人。
+-   <a href=""><code><img height="20" width="20" src="./images/wechat.png"></code></a>：个人wechat: 13352891273（可加rCPD病友群）
 
 ### **技术栈:**
 
