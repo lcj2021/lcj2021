@@ -1,13 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:lcj2021?theme=rule34">
 
-## Channing Lau 刘城君
+## Channing Lau
 
-CP(Competitive Programming)爱好者。[国内首例报导rCPD治愈患者](https://mp.weixin.qq.com/s/XiosZrtD4RsGYmuX8kP-cA)。
-
-## rCPD 逆行性环咽肌功能障碍
-这是一种由于环咽肌功能失调，不能自下而上的通过食管入口把气体排出来的罕见疾病，主要临床表现为不能打嗝。
-
-**本人为国内首例rCPD治愈患者**，希望能**帮助到rCPD病友**，可以联系本人微信`13352891273`
+CP(Competitive Programming)爱好者。
 
 ### **社交主页：**
 
@@ -26,4 +21,10 @@ CP(Competitive Programming)爱好者。[国内首例报导rCPD治愈患者](http
 
 [![](https://activity-graph.herokuapp.com/graph?username=lcj2021&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![lcj2021's github stats](https://github-readme-stats.vercel.app/api?username=lcj2021&show_icons=true&theme=vue)
+
+## rCPD 逆行性环咽肌功能障碍
+这是一种由于环咽肌功能失调，不能自下而上的通过食管入口把气体排出来的罕见疾病，主要临床表现为不能打嗝。
+
+**本人为国内首例rCPD治愈患者**，如有类似症状，欢迎联系本人微信`13352891273`，欢迎加入病友&研究交流群。
+
 
