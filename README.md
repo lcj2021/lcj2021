@@ -8,14 +8,16 @@ CP(Competitive Programming)爱好者。
 
 <!--  <img align="right" alt="GIF" src="./images/code.gif" width="360" height="100%" />  -->
 
--   <a href="https://www.zhihu.com/people/liu-cheng-jun-31-31"><code><img height="20" width="20" src="./images/zhihu.png"></code></a>：发表了 1 篇 `rCPD` [个人治疗经历](https://www.zhihu.com/question/59542901/answer/1913309434)，10k阅读量，已经成功帮助20+人。
--   <a href=""><code><img height="20" width="20" src="./images/wechat.png"></code></a>：个人wechat: 13352891273（可加rCPD病友群）
+-   <a href="https://www.zhihu.com/people/liu-cheng-jun-31-31"><code><img height="20" width="20" src="./images/zhihu.png"></code></a>
+-   <a href=""><code><img height="20" width="20" src="./images/wechat.png"></code></a>
 
 ### **技术栈:**
 
 <a href="http://www.cplusplus.com/"><code><img height="20" src="./images/cpp.png"></code></a>
 <a href="https://www.linux.org/"><code><img height="20" src="./images/linux.png"></code></a>
 <a href="https://www.python.org/"><code><img height="20" src="./images/python.png"></code></a>
+<a href="https://developer.nvidia.com/cuda-toolkit/"><code><img height="20" src="./images/cuda.png"></code></a>
+
 
 ### Github 活跃度
 
